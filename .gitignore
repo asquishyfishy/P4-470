@@ -3,3 +3,7 @@
 ################################################################################
 
 /P4/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/P4/obj/Debug
+/.vs
+/P4/Properties
+/P4/obj/Release
